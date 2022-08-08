@@ -5,6 +5,8 @@
 An in-depth paragraph about your project and overview of use.
 
 ## Language
+- HTML5
+- CSS3
 - **Vanilla JavaScript**
 
 ## User Interface
